@@ -1,2 +1,1 @@
-# BDDDIndividual
-Repositorio Individual de Base de Datos Distribuidas
+# BDD25-2
